@@ -1,0 +1,14 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+	1. HTML tags, superscript, strike, links, images. Mockups to html
+	2. creating P tags and bold or emphasis
+	3. Not much difficult. Had to read through MDN for new tags like sup, strike etc
+	4. Compared with Mockup and referenced html tags.
